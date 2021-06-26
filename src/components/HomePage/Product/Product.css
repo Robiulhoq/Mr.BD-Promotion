@@ -1,0 +1,21 @@
+.underline{
+    height: 5px;
+    width: 20%;
+    background-color: red;
+    text-align: center;
+    margin-left: 40%;
+}
+.product-custome{
+    height: auto;
+    border-radius: 20px;
+}
+.card-box{
+    padding-top: 35px;
+    display: flex;
+}
+@media only screen and (max-width: 600px) {
+    .card-box {
+      display: block;
+      width: 100%;
+    }
+  }

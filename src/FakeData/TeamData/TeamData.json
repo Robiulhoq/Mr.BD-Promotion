@@ -1,0 +1,16 @@
+[{
+    "name": "Robiul Hoq Rakib",
+    "img": "https://i.ibb.co/ZzSFyXx/demo-team.jpg",
+    "education": "Diploma in Computer Seience",
+    "description": "Web Developer"
+  }, {
+    "name": "Iqbal Hossain",
+    "img": "https://i.ibb.co/qdTfNrD/IMG-20210214-WA0006.jpg",
+    "education": "Compleate H.S.S",
+    "description":"Graphic Design"
+  }, {
+    "name": "Amzad Hossain",
+    "img": "https://i.ibb.co/Df4pGhW/IMG-20201211-110800-1-2-copy.jpg",
+    "education": "Compleate H.S.S",
+    "description": "Digital Marketing Expart"
+  }]

@@ -1,0 +1,30 @@
+.service-text{
+    text-align: justify;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 8; /* number of lines to show */
+    -webkit-box-orient: vertical;
+}
+.service-container{
+    color: #6f42c1;
+}
+.custome-card{
+    box-shadow: 5px 5px 20px lightgray;
+    height: 650px;
+}
+.card-heading{
+    font-weight: bold;
+    text-align: center;
+}
+.custome-card:hover{
+    background-color: rgb(218, 212, 212);
+    transform: translate(0px, -50px);
+    transition-delay: 0s;
+    transition-duration: 3s;
+}
+/* @media only screen and (min-width: 900px){
+    .custome-card{
+        height: 800px;
+    }
+} */

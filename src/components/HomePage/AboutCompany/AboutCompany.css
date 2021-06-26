@@ -1,0 +1,16 @@
+.text{
+    text-align: justify;
+    
+}
+.about-text-bg{
+    background-image: url("../../../images/background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+/* @media only screen and (max-width: 600px){
+    .about-img{
+        width: 200px;
+        height: 200px;
+    }
+} */

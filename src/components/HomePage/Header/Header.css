@@ -1,0 +1,33 @@
+.header-main{
+    height: auto;
+    /* width: 100%; */
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-image: url("../../../images/header-banner.jpg");
+    background-position: center;
+    padding: 20px;
+}
+.main-text-box{
+    width: 100%;
+    height: auto;
+}
+.main-text-box h1{
+    font-weight: bold;
+}
+.spacial-text{
+    color: rgb(124, 10, 109);
+    font-weight:inherit;
+}
+.sub-text{
+    margin-top: 15px;
+}
+.button-a{
+    text-decoration: none;
+}
+.header-btn{
+    text-decoration: none;
+    color: white;
+}
+.header-btn:hover{
+    color: black;
+}
